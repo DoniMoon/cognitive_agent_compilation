@@ -1,0 +1,1 @@
+"""Teacher controller package."""
